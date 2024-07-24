@@ -1,0 +1,28 @@
+title: stonpremi101
+name: null
+description: |
+  মাথা নষ্ট
+  extreme shitposting
+  morally dubious linguistically cancerous
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://stonpremi101.bongoarchive.org/" # the base hostname & protocol for your site, e.g. http://example.com
+
+header_img: /media/stonpremi101.jpg
+ig_username: stonpremi101
+ig_category: Artist
+ig_website: null
+
+footer_website: bongoarchive.org
+
+# Build settings
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: diptanilsaha/jekyll-theme-instagram
+
+theme_config:
+  archive: true
+
+include:
+  - media

@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.venv
+.env
+__pycache__
+archiver.py
+requirements.txt
